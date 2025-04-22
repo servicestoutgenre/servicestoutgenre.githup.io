@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+     <html>
+     <head>
+         <title>Services Tout Genre</title>
+         <link rel="stylesheet" href="style.css">
+     </head>
+     <body>
+         <h1>Bienvenue chez Services Tout Genre</h1>
+         <p>Votre partenaire pour tous services</p>
+     </body>
+     </html>
